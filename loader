@@ -5,7 +5,6 @@ getgenv().reykest = true
 
 local gameScripts = {
     [1962086868] = "https://s.pufus.win/ZrtxT3" -- Tower of hell
-    [94971861814985] = "https://s.pufus.win/ZrtxT3" -- Tower of hell (again....)
 }
 
 local scriptUrl = gameScripts[game.PlaceId]

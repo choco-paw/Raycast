@@ -1,4 +1,4 @@
-Raycast is back and (will be) open sourced :D
+https://discord.gg/bRP2zETGTJ
 
 loader:
 ```lua

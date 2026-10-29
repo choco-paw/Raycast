@@ -4,7 +4,7 @@ end
 getgenv().reykest = true
 
 local gameScripts = {
---> yakında doldurcam :))
+    --> yakında doldurcam :))
 }
 
 local scriptUrl = gameScripts[game.PlaceId]
@@ -15,6 +15,7 @@ else
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Raycast",
         Text = "Game not supported!",
+        Icon = "rbxassetid://92582469110581",
         Duration = 5
     })
-end 
+end
